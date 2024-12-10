@@ -13,7 +13,7 @@ Hi! I'm Dylan, a Computer Science student at NYU with a passion for technology, 
 - I enjoy building **data-driven applications** and exploring emerging technologies.
 
 ## Get in Touch:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylan).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylandodds).
 - Or reach me via [email](mailto:dyd2008@nyu.edu)!
 
 <!--
