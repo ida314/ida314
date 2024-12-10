@@ -1,9 +1,19 @@
-# Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+# About Me
+
+Hi! I'm Dylan, a Computer Science student at NYU with a passion for technology, innovation, and learning new things.
+
+## My Background:
+- I'm currently exploring **Machine Learning**, **Blockchain**, and **Cybersecurity**.
+- I enjoy building **data-driven applications** and exploring emerging technologies.
+
+## Get in Touch:
+- Reach me via [email](mailto:dyd2008@nyu.edu)!
 
 <!--
 - 🔭 I’m currently working on ...
