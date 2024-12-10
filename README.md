@@ -8,7 +8,7 @@
 
 Hi! I'm Dylan, a Computer Science student at NYU with a passion for technology, innovation, and learning new things.
 
-## My Background:
+## Interests:
 - I'm currently exploring **Machine Learning**, **Blockchain**, and **Cybersecurity**.
 - I enjoy building **data-driven applications** and exploring emerging technologies.
 
