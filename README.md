@@ -21,10 +21,7 @@
 
 # About Me
 
-Hello, I'm Dylan, a Computer Science student with a passion for technology. 
-
-## Interests:
-- I'm currently exploring **Machine Learning**, and **Cybersecurity**.
+Hello, I'm Dylan, a Computer Science student with a passion for technology.
 
 ## Get in Touch:
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylandodds).
