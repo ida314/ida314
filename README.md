@@ -6,10 +6,10 @@
 
 # About Me
 
-Hello, I'm Dylan, a Computer Science student at NYU with a passion for technology, innovation, and learning new things.
+Hello, I'm Dylan, a Computer Science student with a passion for technology. 
 
 ## Interests:
-- I'm currently exploring **Machine Learning**, **Blockchain**, and **Cybersecurity**.
+- I'm currently exploring **Machine Learning**, and **Cybersecurity**.
 
 ## Get in Touch:
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylandodds).
