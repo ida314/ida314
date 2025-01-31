@@ -1,8 +1,23 @@
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![C/C++](https://img.shields.io/badge/Language-C%2FC%2B%2B-blue?logo=cplusplus)
+![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)
+![Swift](https://img.shields.io/badge/Language-Swift-orange?logo=swift)
+
+![Linux](https://img.shields.io/badge/Tools-Linux-blue?logo=linux)
+![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
+![Eclipse IDE](https://img.shields.io/badge/Tools-Eclipse%20IDE-purple?logo=eclipse)
+![Visual Studio](https://img.shields.io/badge/Tools-Visual%20Studio-blue?logo=visual-studio)
+![Vim](https://img.shields.io/badge/Tools-Vim-darkgreen?logo=vim)
+![Excel](https://img.shields.io/badge/Tools-Excel-green?logo=microsoft-excel)
+![Telnet](https://img.shields.io/badge/Tools-Telnet-gray)
+![SMB](https://img.shields.io/badge/Tools-SMB-blue)
+![SSH](https://img.shields.io/badge/Tools-SSH-black)
+![AWS](https://img.shields.io/badge/Tools-AWS-orange?logo=amazonaws)
+
+![Qt](https://img.shields.io/badge/Library-Qt-green?logo=qt)
+![Halcon](https://img.shields.io/badge/Library-Halcon-blue)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-teal?logo=opencv)
+![React](https://img.shields.io/badge/Library-React-blue?logo=react)
 
 # About Me
 
