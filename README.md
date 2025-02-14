@@ -1,12 +1,9 @@
 ![C/C++](https://img.shields.io/badge/Language-C%2FC%2B%2B-blue?logo=cplusplus)
 ![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
 ![Python](https://img.shields.io/badge/Language-Python-yellow?logo=python)
-![Swift](https://img.shields.io/badge/Language-Swift-orange?logo=swift)
 
 ![Linux](https://img.shields.io/badge/Tools-Linux-blue?logo=linux)
 ![Git](https://img.shields.io/badge/Tools-Git-orange?logo=git)
-![Eclipse IDE](https://img.shields.io/badge/Tools-Eclipse%20IDE-purple?logo=eclipse)
-![Visual Studio](https://img.shields.io/badge/Tools-Visual%20Studio-blue?logo=visual-studio)
 ![Vim](https://img.shields.io/badge/Tools-Vim-darkgreen?logo=vim)
 ![Excel](https://img.shields.io/badge/Tools-Excel-green?logo=microsoft-excel)
 ![Telnet](https://img.shields.io/badge/Tools-Telnet-gray)
