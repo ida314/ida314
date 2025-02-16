@@ -20,9 +20,8 @@
 
 Hello, I'm Dylan, a Computer Science student with a passion for technology.
 
-## Get in Touch:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dylandodds).
-- Or reach me via [email](mailto:dyd2008@nyu.edu)!
+# Reach Me
+down1995@tutanota.com
 
 <!--
 - 🔭 I’m currently working on ...
