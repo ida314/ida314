@@ -21,7 +21,7 @@
 Hello, I'm Dylan, a Computer Science student with a passion for technology.
 
 # Reach Me
-down1995@tutanota.com
+dylan@dodds.org
 
 <!--
 - 🔭 I’m currently working on ...
