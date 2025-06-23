@@ -1,6 +1,6 @@
 # About Me
 
-Hello, I'm Dylan, a Computer Science student with a passion for technology.
+Hello, I'm Dylan!
 
 # Reach Me
 dylan@dodds.org
