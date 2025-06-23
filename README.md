@@ -1,9 +1,4 @@
-# About Me
-
-Hello, I'm Dylan!
-
-# Reach Me
-dylan@dodds.org
+Hello, I'm Dylan! Reach out! dylan@dodds.org
 
 <!--
 - 🔭 I’m currently working on ...
