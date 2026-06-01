@@ -1,4 +1,4 @@
-Hello, I'm Dylan! Reach out! dylan@dodds.org
+Hello, I'm Dylan!
 
 <!--
 - 🔭 I’m currently working on ...
